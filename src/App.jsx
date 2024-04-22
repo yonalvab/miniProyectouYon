@@ -31,7 +31,7 @@ function App() {
         <div className='encabezado'>
           <header>
             <div className='container-logo'>
-              <h2 className='logo-text'><img src="public/logo.png" alt="logo" className='logo-img' />windbnb</h2>
+              <h2 className='logo-text'><img src="./public/logo.png" alt="logo" className='logo-img' />windbnb</h2>
             </div>
             <ContainerSearch setAccion={() => setIsOpenSearch(true)} />
             {
