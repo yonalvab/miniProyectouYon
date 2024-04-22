@@ -1,0 +1,53 @@
+.apartments {
+    width: 395px;
+}
+
+.imagen {
+    width: 395px;
+    height: 269px;
+    top: 209px;
+    left: 94px;
+    border-radius: 24px;
+}
+
+.description {
+    width: 395px;
+    height: 25px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+    margin-bottom: 10px;
+
+}
+
+p {
+    margin: 5px;
+    display: flex;
+}
+
+.first-line {
+    font-size: 15px;
+}
+
+nav {
+    font-size: 13px;
+    width: 100px;
+    height: 20px;
+    border: 1px solid;
+    border-radius: 18px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+
+}
+
+.red-icon {
+    color: #EB5757;
+}
+
+.second-line {
+    margin-left: 5px;
+    font-size: 17px;
+}

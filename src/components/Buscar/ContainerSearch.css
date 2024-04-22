@@ -1,0 +1,38 @@
+.container-search {
+    display: flex;
+    width: 297px;
+    height: 55px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    border: 2px solid #F2F2F2;
+    border-color: #F2F2F2;
+}
+
+
+.cityContainer {
+    font-size: 14px;
+    font-family: 'Muli';
+    color: #333333;
+    height: 55px;
+    margin-left: 1px;
+    cursor: pointer;
+}
+
+.guestsContainer {
+    height: 55px;
+    font-size: 14px;
+    color: #BDBDBD;
+    font-family: 'Muli';
+    cursor: text;
+}
+
+.cityContainer,
+.guestsContainer {
+    border-right: 1px solid #F2F2F2;
+    padding-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
